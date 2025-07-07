@@ -12,7 +12,6 @@ Dado um conjunto de tarefas que devem ser processadas por várias máquinas em s
 - Leitura de instâncias benchmark de Taillard
 - Cálculo do makespan e do desvio percentual relativo (DPR)
 - Geração de gráficos de Gantt
-- Resultados comparativos com os melhores valores conhecidos (BKS)
 
 ## Requisitos e Ambiente
 
