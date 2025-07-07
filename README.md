@@ -14,13 +14,21 @@ Dado um conjunto de tarefas que devem ser processadas por várias máquinas em s
 - Geração de gráficos de Gantt
 - Resultados comparativos com os melhores valores conhecidos (BKS)
 
-## Requisitos
+## Requisitos e Ambiente
 
-- Python 3.11+
-- numpy
-- matplotlib
+Este projeto foi desenvolvido e testado em:
 
-Instale com:
+- **Python 3.11**
+- **Visual Studio Code (VSCode)** como ambiente de desenvolvimento
+- Bibliotecas utilizadas:
+  - `numpy`
+  - `matplotlib`
+
+Instale as dependências com:
+
+```bash
+pip install -r requisitos.txt
+
 
 ```bash
 pip install -r requisitos.txt
